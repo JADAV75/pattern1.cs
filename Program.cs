@@ -157,20 +157,48 @@ namespace ConsoleApp3
             //Console.WriteLine(res);
 
 
-            int a = 5;
-            int b = 5;
-            int res = ++a + b++ + b++ + a++ + ++a + ++b + a++;          ////output47 6+5+6+6+8+8+8
-            Console.WriteLine(res);
+            //int a = 5;
+            //int b = 5;
+            //int res = ++a + b++ + b++ + a++ + ++a + ++b + a++;          ////output47 6+5+6+6+8+8+8
+            //Console.WriteLine(res);
 
 
 
 
+            //Console.Write("Enter a number: ");
+            //int number = Convert.ToInt32(Console.ReadLine());
 
+            //string[] digitWords = { "Zero", "One", "Two", "Three", "Four",
+            //                        "Five", "Six", "Seven", "Eight", "Nine" };
+            //string output = "";
+            //while (number > 0)
+            //{
+            //    int digit = number % 10;
+            //    number /= 10;
+            //    for (int i = 0; i < digitWords.Length; i++)
+            //    {
+            //        if (digit == i)
+            //        {
+            //            output = digitWords[i] + " " + output;
+            //        }
+            //    }
 
-
+            //}
+            //Console.Write(output);
+            //Console.ReadLine();
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
